@@ -1,10 +1,13 @@
-# Introduction {#intro}
+# Introduction{#intro}
 
 There is likely a very good reason you’ve decided to search the internet for advice on leaving academia, been sent a link to this or have stumbled on this syllabus. Regardless of your stage of being in the academy, the way you’ve gotten here or your feelings about wanting to leave, you are welcome here. We probably don’t have all the answers for you, but we have a few thoughts. And we certainly know what it’s like to be where you are. 
+
 There are a lot of external reasons that could have come your way that would make this website needed. Maybe the job search process decided for you and you’re not going to get that job you wanted. Maybe you’re a grad student who knows she needs options. Maybe you’re a tenured professor who doesn’t want to stay. Maybe you’re not sure but just want to know. Whatever stage you’re at, you’re welcome here. 
+
 You’ll also likely have a lot of emotions about this too. We’ll talk about that in Ch ?. Just know that those of us who have left we get it.
 
 ## A Syllabus? Really? 
+
 Well, why not? We use syllabi to teach things to our students, why wouldn’t we put together a framework for learning more about the job of leaving the academy? 
 There are a few reasons why I chose this as a format. 
 1) Because you know what a syllabus is about if you’re an academic. You have taken classes and read other people’s syllabi. You might have written your own. This is comfortable. 
@@ -13,9 +16,11 @@ There are a few reasons why I chose this as a format.
 4) A syllabus is a living document and it changes from semester to semester. I’m hopeful that this will do the same. I also strongly encourage you to add to it, help me edit it as we go. I need what you know too.  
 
 ## Prerequisite 
-Prerequisite: This syllabus expects that you have spent time in a graduate program that is designed to prepare you for a career in academia.  This course also presumes that you have asked or are currently open to the question of what life would be like to not be an academic. 
+
+This syllabus expects that you have spent time in a graduate program that is designed to prepare you for a career in academia.  This course also presumes that you have asked or are currently open to the question of what life would be like to not be an academic. 
 
 ## About 
+
 This syllabus is designed by me Beth Duckles, but it would not exist without the incredible group of women who have joined the Athenas Slack Channel for Post Ac women and the people who responded to a survey I put out for resources on Post Ac life. 
 
 This is a living document and while I take responsibility for the opinions inside, I strongly encourage additional resources, materials, ideas for assignments, or any other feedback you have.  I know there’s more, please share any resources that you think might fit with me here.   

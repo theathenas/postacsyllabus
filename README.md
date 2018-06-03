@@ -3,6 +3,7 @@ This syllabus is designed to create resources and supportive materials and ideas
 If you're thinking about leaving the academy or have already left. This is for you. 
 
 Most who feel the challenge of leaving the academic career path know what I mean when I talk about leaving academia. That said, I know there are a variety of paths and that there are lots of questions about who belongs. Here (in no particular order) are some people who might find this syllabus useful. 
+
 * An adjunct who is finding the lifestyle unsustainable.
 * A visiting assistant professor who has no idea what they're doing when their contract finishes. 
 * A grad student who is starting to think they don't want to do the professor thing. 
