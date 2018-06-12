@@ -1,13 +1,31 @@
 # Money 
 
-- YNAB - You Need a Budget 
-- Overcoming Underearning, Barbara Stanny 
-- Chelsea Fagan - Financial Diet
-- JD Roth - “Your Money The Missing Manual” 
-- Your money or your life. 
-- Personal Finance for PhDs [http://pfforphds.com/](http://pfforphds.com/)
-- Negotiation - [http://www.singlefounder.com/tips-on-negotiating-a-great-consulting-rate/](http://www.singlefounder.com/tips-on-negotiating-a-great-consulting-rate/)
+Money is an incredibly difficult subject for post acs. 
 
-## Articles/Stories 
+### Personal Finance Resources 
+- [Overcoming Underearning - Barbara Stanny](https://www.harpercollins.com/9780061856662/overcoming-underearningtm/) 
+- [Financial Diet - Chelsea Fagan](http://thefinancialdiet.com/author/chelsea-fagan/)
+- [Your Money The Missing Manual - JD Roth](http://shop.oreilly.com/product/9780596809416.do)  
+- [Money Drunk/Money Sober - 90 Days To Financial Freedom by Mark Bryan and Julia Cameron](https://www.penguinrandomhouse.com/books/20308/money-drunkmoney-sober-by-mark-bryan-and-julia-cameron/9780345432650/)
 
-- [http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/)
+### Websites 
+- [Personal Finance for PhDs ](http://pfforphds.com/)
+- [Mint](https://www.mint.com/) 
+- [You Need a Budget (YNAB)](https://www.youneedabudget.com/)
+- [The Simple Living Forum](http://www.simplelivingforum.net/)
+- [Get Rich Slowly](https://www.getrichslowly.org/) 
+
+## Being Broke 
+- [Rising: Strategies for the Broke, the At-Risk, and Those Who Love Them by Joon Madriga](https://www.amazon.com/Rising-Strategies-Broke-At-Risk-Those/dp/151874043X/)
+- [Poorcraft: The Funnybook Fundamentals of Living Well on Less](https://www.amazon.com/dp/B00I9DOSDU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [Hand to Mouth: Living in Bootstrap America  by Linda Tirado](https://www.amazon.com/dp/B00JPR5JA0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+## Unique Money Perspectives 
+- [Your Money or Your Life - Vicki Robin and Joe Dominguez](https://yourmoneyoryourlife.com/) The perspectives in this book really can change the way you think about money. Through several exercises they get at the question of how much your time and life force is worth. This book can be quite eye opening and is a very unique way to consider how money fits into your life. There is also a vast internet community of folks who have worked through this book and consider their lives based on these ideas.  
+- [Sacred Economics - Charles Eisenstein](http://sacred-economics.com/) Eisenstein asks for no less than a reconsideration of what we think of as the use of money. He is interested in questioning how we look at the economic system from gift economies to capitalism. He's interested in questioning the capitalist system through a deeper inquiry into how we might exist in a gift economy. 
+
+
+## Money for Entrepreneurs
+- [Consulting and Negotiation](http://www.singlefounder.com/tips-on-negotiating-a-great-consulting-rate/)
+
+

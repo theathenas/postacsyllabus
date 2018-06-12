@@ -1,26 +1,55 @@
-# Introduction{#intro}
+# Introduction
 
 There is likely a very good reason you’ve decided to search the internet for advice on leaving academia, been sent a link to this or have stumbled on this syllabus. Regardless of your stage of being in the academy, the way you’ve gotten here or your feelings about wanting to leave, you are welcome here. We probably don’t have all the answers for you, but we have a few thoughts. And we certainly know what it’s like to be where you are. 
 
-There are a lot of external reasons that could have come your way that would make this website needed. Maybe the job search process decided for you and you’re not going to get that job you wanted. Maybe you’re a grad student who knows she needs options. Maybe you’re a tenured professor who doesn’t want to stay. Maybe you’re not sure but just want to know. Whatever stage you’re at, you’re welcome here. 
+Why are you here? Well there are a lot of reasons you might have decided to take a look.  
+- Maybe you're at the tail end of a job search and you’re not going to get a job you want. 
+- Maybe you’re a grad student who knows she needs options. 
+- Maybe you’re a tenured professor who doesn’t want to stay in academia for any number of reasons.  
+- Maybe you’re not sure but just want to know what your options are. 
 
-You’ll also likely have a lot of emotions about this too. We’ll talk about that in Ch ?. Just know that those of us who have left we get it.
+Whatever stage you’re at, you’re welcome here. 
 
-## A Syllabus? Really? 
+You’ll also likely have a lot of emotions about this too. We’ll talk about that in Ch ?. Just know that we get it.
 
-Well, why not? We use syllabi to teach things to our students, why wouldn’t we put together a framework for learning more about the job of leaving the academy? 
+## A Syllabus? Really Beth? 
+
+Well, why not? We use syllabi to teach content to students, why wouldn’t we put together a framework for learning more about the job of leaving the academy? 
+
 There are a few reasons why I chose this as a format. 
-1) Because you know what a syllabus is about if you’re an academic. You have taken classes and read other people’s syllabi. You might have written your own. This is comfortable. 
-2) When making your own classes you probably look at other people’s syllabi and “borrow” from others. This is not only acceptable, it’s normal. Same here. Take what you want, leave the rest. 
-3) Leaving academia and getting together the skills to make this leap is no different than any other class you’ve taken. It’s just work. A syllabus reminds you that this is doable. 
-4) A syllabus is a living document and it changes from semester to semester. I’m hopeful that this will do the same. I also strongly encourage you to add to it, help me edit it as we go. I need what you know too.  
 
-## Prerequisite 
+1) Because you know what a syllabus is about if you’re an academic. You have taken classes and have read other people’s syllabi. You might have written your own. This is a comfortable format.  
+2) When making your own classes you probably look at other people’s syllabi and “borrow” from them (with attribution of course). This is not only acceptable, it’s normal in most fields. Same with this document. Take what you want, leave the rest. Some of this will be useful, some will not. 
 
-This syllabus expects that you have spent time in a graduate program that is designed to prepare you for a career in academia.  This course also presumes that you have asked or are currently open to the question of what life would be like to not be an academic. 
+3) Leaving academia and learning the skills to make this leap is no different than any other skill you've learned in a class. It’s just work. A syllabus reminds you that this is doable. Plus I get to give you homework and who doesn't like homework?
+
+4) A syllabus changes from semester to semester. This document will do the same, staying online and shifting as I get more resources, suggestions for units and ideas for how best to format this thing. I strongly encourage you to contribute to this document as we go.
+
+## Prerequisites for the course
+
+This syllabus will make the most sense for people who have spent time in a graduate program that is primarily designed to prepare you for a career in academia. This course also presumes that you are open to a life  that is somehow different from becoming a tenured professor at a university. 
+
+A few things that are not required: You don't have to have left academia, you don't have to make a decision about if you'll leave. You don't even have to know what that would look like if you did. 
+
+## A few Terms 
+
+- Post Academic/Post Ac 
+- Academic Adjacent/Ac Adjacent
+- Adjuncts
+- Postdoc/Postdoctoral Fellowship
+- VAP/Visiting Assistant Professor Position
+- TT/Tenure Track Position 
+
+
+## Contributing
+
+I take responsibility for this document and the opinions are mine unless they are in quotations and therefore contributed by someone else. That said, I strongly encourage you (yes you!) to contribute resources, materials, feedback about books/articles/resources, ideas for assignments, or any other thoughts you have. I welcome emails, responses to this survey and pull requests on GitHub. I reserve the right to edit for clarity, space and to spelling/grammar. I also may not be able to fit everything into the document, but I will do my best. 
+
+Please be patient if you do submit something. I am one person, and this is a labor of love. I also don't have all the answers for your field or your experiences. So if something seems wrong to you, please let me know. We all need each other here. There's a lot we can accomplish if we join together our (massively overeducated) brains. 
+
+If I do include something that you have contributed, you have the option of having your name listed in the contributors section with my gratitude. Making your name public is not required for contributing. 
+
 
 ## About 
 
-This syllabus is designed by me Beth Duckles, but it would not exist without the incredible group of women who have joined the Athenas Slack Channel for Post Ac women and the people who responded to a survey I put out for resources on Post Ac life. 
-
-This is a living document and while I take responsibility for the opinions inside, I strongly encourage additional resources, materials, ideas for assignments, or any other feedback you have.  I know there’s more, please share any resources that you think might fit with me here.   
+This syllabus is designed by me Beth Duckles (Hi!), but it would not exist without the incredible group of women who have joined the Athenas Slack Channel for Post Ac women, the people who responded to a survey I put out for resources on Post Ac life and the many contributors who have offered their thoughts and resources.  

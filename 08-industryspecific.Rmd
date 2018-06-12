@@ -1,13 +1,19 @@
 # Industry Specific Resources 
 
 ## Writing/Publishing 
-- www.loft.org  - writing classes 
-- www.pw.org
-- https://www.authorspublish.com/
-- [http://www.theinternationalfreelancer.com/](http://www.theinternationalfreelancer.com/) 
+- [Loft Writing Classes](www.loft.org) 
+- [WHAT IS THIS?](www.pw.org)
+- [Authors Publish](https://www.authorspublish.com/)
+- [The International Freelancer](http://www.theinternationalfreelancer.com/) 
 
 ## Linguistics 
-- careerlinguist.com 
+- [Career Linguist(www.careerlinguist.com) 
+
+## Data Science 
+-  
+
+## Public Policy 
+- AAAS Fellowship 
 
 ## Social Scientists 
 - [https://www.epicpeople.org/](https://www.epicpeople.org/)

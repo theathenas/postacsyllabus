@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a syllabus to give lessons for people who leave the academy"
+description: "This is a syllabus to with lessons, resources and homework for people who leave the academy"
 ---
 ```{r}
 options(tinytex.verbose = TRUE)
