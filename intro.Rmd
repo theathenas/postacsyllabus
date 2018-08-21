@@ -1,3 +1,9 @@
+---
+title: "Introduction to the Syllabus"
+output: html_document
+---
+
+
 # Introduction
 
 There is likely a very good reason you’ve decided to search the internet for advice on leaving academia, been sent a link to this or have stumbled on this syllabus. Regardless of your stage of being in the academy, the way you’ve gotten here or your feelings about wanting to leave, you are welcome here. We probably don’t have all the answers for you, but we have a few thoughts. And we certainly know what it’s like to be where you are. 
@@ -52,4 +58,4 @@ If I do include something that you have contributed, you have the option of havi
 
 ## About 
 
-This syllabus is designed by me Beth Duckles (Hi!), but it would not exist without the incredible group of women who have joined the Athenas Slack Channel for Post Ac women, the people who responded to a survey I put out for resources on Post Ac life and the many contributors who have offered their thoughts and resources.  
+This syllabus is designed by me Beth Duckles (Hi!), but it would not exist without the incredible group of women who have joined the Athenas Slack Channel for Post Ac women, the generous and thoughtful contributors to this volume and the marvelous folks who who responded to a survey I put out for resources on Post Ac life.  
