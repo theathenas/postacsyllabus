@@ -1,4 +1,17 @@
 ---
-title: "SocialStructure"
-output: html_document
+title: "Social Structure"
 ---
+
+# Social Structure and Academia
+
+
+## Academia as a Total Institution 
+
+
+## Women in Academia 
+
+## People of Color in Academia 
+
+
+
+

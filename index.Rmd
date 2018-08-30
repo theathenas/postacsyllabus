@@ -2,7 +2,9 @@
 title: "Post Academic Syllabus"
 author: "Beth M. Duckles"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 description: This is a syllabus to with lessons, resources and homework for people
   who want to leave or have left academia.
 documentclass: book
@@ -17,14 +19,5 @@ biblio-style: apalike
 options(tinytex.verbose = TRUE)
 ```
 
-# Introduction to This Book 
 
-This syllabus is designed to create resources and supportive materials and ideas for people who are leaving or have left the academy. 
 
-The syllabus was written by [Beth M. Duckles](https://github.com/bduckles) with help from [contributers](LINK) Some collaborators remain anonymous either by choice or by virtue of having offered me their thoughts through anonymous surveys. 
-
-You (yes you) are welcome to contribute to this document by completing this [online survey](LINK), emailing postacathenas@gmail.com or submitting a github pull request. 
-
-In all cases, please indicate if you would prefer that I NOT use your name. Otherwise if you offer comments, links, insights or any helpful feedback you will be listed as a contributor. 
-
-I reserve the right to edit for clarity and content. My goal is to make sure that the entirety of the document makes sense. If I do not include your writing/quote/wording it is not personal. I may believe the same thing has been said elsewhere or I might not have gotten to it yet. Edits will come when I have time. This is a labor of love, please be kind.  

@@ -1,6 +1,5 @@
 ---
 title: "Emotions"
-output: html_document
 ---
 
 In this section we're going to go through some of the specific emotional states that people have felt when leaving the academy. Those who write books and create workshops that help people do their human homework often do not focus specifically on the challenges that people who leave the academy face. Furthermore, academics who leave can be reticent to talk about their emotional states openly. We'll talk a little bit about why that might be the case and go deeper into a discussion of what we can do about this.  

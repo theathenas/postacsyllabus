@@ -1,12 +1,10 @@
 book_filename: "postacsyllabus"
 delete_merged_file: true
-language:
-  ui:
-    chapter_name: "Chapter "
+
 
 rmd_files: [ 
   "intro.rmd", 
-  "endingrelationship.rmd", 
+  "academicrecovery.rmd", 
   
   "socialstructure.rmd", 
   "humanhomework.rmd", 
