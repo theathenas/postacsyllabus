@@ -5,16 +5,4 @@
 *.pdf
 *.epub
 *.tex
-"academicrecovery.rmd", 
-  
-"socialstructure.rmd", 
-"humanhomework.rmd", 
-  
-"emotions.rmd", 
-"job.rmd", 
-"networking.rmd", 
-"money.rmd", 
-"entrepreneurship.rmd", 
-"creativity.rmd", 
-"industryspecific.rmd", 
-"quitlit.rmd"
+/ignorefile
