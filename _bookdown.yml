@@ -3,19 +3,19 @@ delete_merged_file: true
 
 
 rmd_files: [ 
-  "intro.rmd", 
-  "academicrecovery.rmd", 
+  "intro.rmd"]
   
-  "socialstructure.rmd", 
-  "humanhomework.rmd", 
+  #"academicrecovery.rmd", 
   
-  "emotions.rmd", 
-  "job.rmd", 
-  "networking.rmd", 
-  "money.rmd", 
-  "entrepreneurship.rmd", 
-  "creativity.rmd", 
-  "industryspecific.rmd", 
-  "quitlit.rmd"
+  #"socialstructure.rmd", 
+  #"humanhomework.rmd", 
   
-  ]
+  #"emotions.rmd", 
+  #"job.rmd", 
+  #"networking.rmd", 
+  #"money.rmd", 
+  #"entrepreneurship.rmd", 
+  #"creativity.rmd", 
+  #"industryspecific.rmd", 
+  #"quitlit.rmd"
+  
