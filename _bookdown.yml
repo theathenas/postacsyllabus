@@ -1,8 +1,5 @@
-book_filename: "postacsyllabus"
-delete_merged_file: true
+new_session: yes
 
-
-rmd_files: [ 
+rmd_files: [
+  "index.rmd",
   "intro.rmd"]
-  
- 

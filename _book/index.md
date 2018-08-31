@@ -1,7 +1,7 @@
 --- 
 title: "Post Academic Syllabus"
 author: "Beth M. Duckles"
-date: "`r Sys.Date()`"
+date: "2018-08-31"
 output:
   html_document:
     df_print: paged
@@ -15,7 +15,8 @@ bibliography:
 site: "bookdown::bookdown_site"
 biblio-style: apalike
 ---
-```{r}
+
+```r
 options(tinytex.verbose = TRUE)
 ```
 
