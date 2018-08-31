@@ -3,9 +3,9 @@ title: "Post Academic Syllabus"
 author: "Beth M. Duckles"
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 description: This is a syllabus to with lessons, resources and homework for people
   who want to leave or have left academia.
 documentclass: book
