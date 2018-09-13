@@ -83,7 +83,7 @@ This work is licensed under a [Creative Commons Attribution International 4.0 Li
 
 This means that you are free to share, copy, adapt or remix this material, to use it in places where you think it might be beneficial. 
 
-You must attribute the writing to this project (cite your sources!). You must also link to this license and to indicate if you have made changes. 
+You must attribute the writing to this project (cite your sources!), you must also link to this license and to indicate if you have made changes. 
 
 I’d also really appreciate hearing what you do with this if you do end up using it! 
 
