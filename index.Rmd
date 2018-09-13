@@ -22,7 +22,7 @@ options(tinytex.verbose = TRUE)
 # Introduction
 
 
-**This syllabus is designed to collect resources and offer support, advice and suggestions for people who are leaving or have left the academy. **
+**This syllabus is designed to collect resources and offer support, advice and suggestions for people who are leaving or have left the academy.**
 
 This is a self-guided course of study for anyone who is interested in leaving academia. Those of us who wrote this syllabus have pieced together a curriculum to help ourselves make decisions about a life outside of, adjacent to or partly connected to academia. 
 

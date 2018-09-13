@@ -1,7 +1,7 @@
 --- 
 title: "Post Academic Syllabus"
 author: "Beth M. Duckles"
-date: "2018-09-04"
+date: "2018-09-13"
 output:
   html_document:
     df_print: paged
@@ -23,7 +23,7 @@ options(tinytex.verbose = TRUE)
 # Introduction
 
 
-**This syllabus is designed to collect resources and offer support, advice and suggestions for people who are leaving or have left the academy. **
+**This syllabus is designed to collect resources and offer support, advice and suggestions for people who are leaving or have left the academy.**
 
 This is a self-guided course of study for anyone who is interested in leaving academia. Those of us who wrote this syllabus have pieced together a curriculum to help ourselves make decisions about a life outside of, adjacent to or partly connected to academia. 
 
@@ -84,7 +84,7 @@ This work is licensed under a [Creative Commons Attribution International 4.0 Li
 
 This means that you are free to share, copy, adapt or remix this material, to use it in places where you think it might be beneficial. 
 
-You must attribute the writing to this project (cite your sources!). You must also link to this license and to indicate if you have made changes. 
+You must attribute the writing to this project (cite your sources!), you must also link to this license and to indicate if you have made changes. 
 
 I’d also really appreciate hearing what you do with this if you do end up using it! 
 
