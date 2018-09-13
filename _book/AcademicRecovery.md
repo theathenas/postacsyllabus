@@ -14,9 +14,7 @@ This question is the starting place of the post ac syllabus. What are we recover
 
 I'm going to suggest that if we are going to actually recover from academia, It's important to get a handle on our own story, to figure out what happened to us, or perhaps what is still happening to us. Recovering from academia means responding to whatever pains and challenges happened to us, acknowledging the loss and and choosing to take new steps forward. We need to be able to talk about our story and be the owner of it. 
 
-## Do I Have to Leave?
 
-By the way, when we say recovering from academia, it doesn't mean you have to leave. Maybe it does, but maybe it doesn't. Certainly there are quite a number of us who thought we were always going to be professors and have found ourselves doing work outside the academy that is fulfilling. For some of us, we intended to leave but have found ourselves right back in a job we love but was different than we had imagined. Some of us are doing the same academic work but are also doing side gigs. Still more of us have found fulfilling careers outside the academy or with one toe inside, maybe doing a class here or there.   
 
 ## Three Things
 
@@ -46,6 +44,10 @@ Which is another reason for a resource like this. Many of us who are writing and
 >" Prepare for the transition, read others' stories, know that it may take 3 years before you feel 'normal' again." - Anonymous 
 
 > "Don't think this will be a quick transition. So many people told me it takes 3 to 6 months to adjust to a new job, but none of those people understood that a transfer out of academia is far different from switching jobs. Anticipate the adjustment taking no less than a year, but likely several more. " - Anonymous 
+
+## Do I Have to Leave?
+
+By the way, when we say recovering from academia, it doesn't mean you have to leave. Maybe it does, but maybe it doesn't. Certainly there are quite a number of us who thought we were always going to be professors and have found ourselves doing work outside the academy that is fulfilling. For some of us, we intended to leave but have found ourselves right back in a job we love but was different than we had imagined. Some of us are doing the same academic work but are also doing side gigs. Still more of us have found fulfilling careers outside the academy or with one toe inside, maybe doing a class here or there.   
 
 ## Resources
 
