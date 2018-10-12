@@ -2,4 +2,5 @@ new_session: yes
 
 rmd_files: [
   "index.rmd", 
-  "AcademicRecovery.Rmd"]
+  "AcademicRecovery.Rmd", 
+  "Structural.Rmd"]

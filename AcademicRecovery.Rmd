@@ -8,9 +8,9 @@ There was a palpable difference when people who understood what it meant to leav
 
 The more this happened, the more I started to wonder about this phrase that I was using so lightly. Why was it that some people seemed to see this change that I had made as simply a change in my employment while other people were seeing this as a really big life change. Certainly, it was a big transition, but why was I still feeling so tied to the academy when I no longer received a paycheck from a university? 
 
-*If I was a recovering academic, I began to get curious about what was I recovering FROM?* 
+*If I was a recovering academic, I began to get curious about what it was that I recovering FROM?* 
 
-This question is the starting place of the post ac syllabus. What are we recovering from? What is the hold that academia has over us? I suspect there are as many answers to this question as there are recovering academics, but I would like to just say that if you feel like there is an invisible string that keeps you attached to the academy, you aren't alone. What is it that keeps us attached? What do we need to get over? 
+This question is the starting place of the post ac syllabus. What are we recovering from? What is the hold that academia has over us? I suspect there are as many answers to this question as there are recovering academics, but if you feel like there is an invisible string that keeps you attached to the academy, you aren't alone. What is it that keeps us attached? What do we need to get over? 
 
 I'm going to suggest that if we are going to actually recover from academia, It's important to get a handle on our own story, to figure out what happened to us, or perhaps what is still happening to us. Recovering from academia means responding to whatever pains and challenges happened to us, acknowledging the loss and and choosing to take new steps forward. We need to be able to talk about our story and be the owner of it. 
 
@@ -18,14 +18,14 @@ I'm going to suggest that if we are going to actually recover from academia, It'
 
 ## Three Things
 
-There are three things I will say as many ways as possible and from as many voices as I can throughout this course. In my experience of talking with Post Acs, these are the things you need to hear.   
+There are three things I will say as many ways as possible and from as many voices as I can throughout this course. In my experience of talking with Post Acs, these are the things you most need to hear.   
 1. You are not alone. 
 2. You have skills. 
 3. It can get better. 
 
 Regardless of what you've gone through, there are others who have had similar experiences. Maybe not exactly the same thing you've experienced but there are people who get it and who have moved through an experience that is like yours. Honestly. It may feel like no one else who has been where you are, but really truly - you're not alone. 
 
-If you made it into a graduate program, you have skills. If you made it out of a graduate program, you also have skills. I know this can be hard to remember if you've internalized the critical commentary, abusive behavior, and the fact that you gained an incredibly specific skill set. But I promise, you really really do have abilities and resources that you can trade for money. It might take a while to find those and to know how to market them, but you do have skills. 
+If you made it into a graduate program, you have skills. If you made it out of a graduate program, you also have skills. I know this can be hard to remember if you've internalized the critical commentary, abusive behavior, and the fact that you gained an incredibly specific skill set. But I promise, you really really do have abilities and resources that you can trade for money. It might take a while to find those and to know how to market them, but you do have skills.
 
 While it's not universally true, most people who are potential Post Ac's don't completely understand that life can be pretty darn marvelous on the other side of the ivory tower. It's certainly not perfect, there are substantial differences to academic life and it can be hard in it's own way. But there is some evidence that you will (gasp) be happier if you leave academia. 
 
@@ -39,7 +39,7 @@ For people who are struggling with the idea of leaving academia, an early questi
 
 With all honesty though, the process does take time. Possibly more time than you might want it to. Good things can happen quickly and you can get a job relatively fast, but you also are going to find that the recovery process is not something you can tackle in a month or even a couple of months. It will likely be measured in years. 
 
-Which is another reason for a resource like this. Many of us who are writing and contributing to this are out of academia but we STILL find ourselves grappling with the experience now even years later. We still struggle with some of the hurts of our grad student and professorial years. We still struggle with putting ourselves out there and dealing with imposter syndrome, perfectionism and more. 
+Which is another reason for a resource like this. Many of us who are writing and contributing to this are out of academia but we STILL find ourselves grappling with the experience now even years later. We still struggle with some of the hurts of our grad student and years of teaching. We still struggle with putting ourselves out there and dealing with imposter syndrome, perfectionism and more. 
 
 >" Prepare for the transition, read others' stories, know that it may take 3 years before you feel 'normal' again." - Anonymous 
 
@@ -47,11 +47,11 @@ Which is another reason for a resource like this. Many of us who are writing and
 
 ## Do I Have to Leave?
 
-By the way, when we say recovering from academia, it doesn't mean you have to leave. Maybe it does, but maybe it doesn't. Certainly there are quite a number of us who thought we were always going to be professors and have found ourselves doing work outside the academy that is fulfilling. For some of us, we intended to leave but have found ourselves right back in a job we love but was different than we had imagined. Some of us are doing the same academic work but are also doing side gigs. Still more of us have found fulfilling careers outside the academy or with one toe inside, maybe doing a class here or there.   
+By the way, when we say recovering from academia, it doesn't mean you have to leave. Maybe it does, but maybe it doesn't. Certainly there are quite a number of us who thought we were always going to be professors and have found ourselves doing work outside the academy that is fulfilling. For some of us, we intended to leave but have found ourselves right back in an academic job we love but was different than we had imagined. Some of us are doing the same academic work but are also doing side gigs. Still more of us have found fulfilling careers outside the academy or with one toe inside, maybe teaching a class here or there.   
 
 ## Resources
 
-There are a lot of resources we will share throughout the syllabus but these are some of the main resources we've found that were overally helpful for academic recovery. 
+There are a lot of resources we will share throughout the syllabus but these are some of the main resources we've found that were overall helpful for academic recovery. 
 
 * [The Professor is In](http://theprofessorisin.com/)
 
@@ -74,7 +74,7 @@ There are a lot of resources we will share throughout the syllabus but these are
 
 
 ## Homework 
-We're going to offer some "homework" assignments in each section which will ask you to take what we've talked about and reflect. 
+We're going to offer some "homework" assignments in each section which will ask you to take what we've talked about and reflect. These are (of course) your choice to do, or not do. But they've helped us to reflect on our experiences. 
 
 ### Metaphors Exercise 
 We often use metaphors in academic recovery that can help us to understand the challenges we've faced as academics. In this exercise there will be a series of questions that ask you to look at different metaphors that might help you tell your stories and to be intentional about which stories make the most sense for you. 

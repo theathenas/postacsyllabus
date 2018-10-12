@@ -1,0 +1,232 @@
+# Structural Issues in Academia 
+
+There has been a rise in recently years in what has been called Quit Lit or articles about quitting academia. These are articles where the writer explains the challenges were that led them to their departure from an academic position and they can range from angry pieces that explain how the system failed them to grief-ridden explications of what went wrong. They come from every corner of the academy, from full professors to adjuncts and post docs. There are a lot of them. 
+
+I'd like to suggest that one reason this kind of essay is resonant for those of us who have left or are considering leaving the academy is that it does something quite helpful. First, the author explains what they've gone through and what has happened to them. Then they describe the power structures, the institutional pressures, the cultural story and sociopolitical reasons for the challenges they have faced. In essence, Quit Lit contextualizes the story and focuses not just on the individual's experience but how that experience is duplicated across higher education. The story is often imbued with the emotions the writer feels, but those emotions are placed within the wider lens of the system that has been problematic instead of naming the individual as the sole reason for the problem.  
+
+I want to use this broadening lens to support our academic recovery. There are several reasons why a more structural perspective on higher education can be useful to those who are recovering from academia. First, these stories can help us to feel less lonely. Certainly no one else has experienced exactly what you have, but articles in the Quit Lit genre introduce the powerful question that maybe others have had something similar happen to them. Maybe you're not the only one who has gone through something difficult. This not only makes us feel better, it also indicates how much the system has isolated us and allows us to question who benefits from that kind of isolation.
+
+Second, Quit Lit can lead us to seek out a deeper understanding of the power structures and imbalances that have been created to marginalize certain people. There are many such groups of people among them: those who are adjuncts or contingent labor, those who are pre-tenured, graduate students, women, students of color, LGBTQIA, those with children, those with disabilities etc.  By seeing more clearly the power imbalances and how they have been structured and reinforced by systems, we may begin to understand the system itself has led to our experiences. We see ourselves as connected to others who also have faced this detrimental system and we can connect with others to that end. 
+
+Finally, these pieces can help us recontextualize our experiences. By seeing how the institution itself has created and benefitted from what we have gone through we gain a powerful lens of critique, allowing us to see how we might have been encouraged to blame ourselves instead of for the institutions to take responsibility for the inequities the system itself creates, reinforces, sustains and recreates. The system itself is built to cause harm, and we may begin to see ourselves as having survived that system instead of failing that system. 
+
+## A Brief List of Structural Issues
+
+I think it can be important to look at the structural issues at play in the individual choice to leave academia. While we often think of ourselves as having an experience no one else has, there are a number of things we can look to to see how the system may wish to reinforce or encourage us to believe we are alone. 
+
+Below I've listed a  variety of topics I've seen talked about in Quit Lit and Post Academic cirlces. This is likely incomplete, but I want to encourage you to think through these kinds of structural issues as they relate to your story. What resonates in your story? What fits for you? You might find a few more things that you hadn't thought of as part of your story. 
+
+What am I missing?
+
+* Academic precarity and economic instability 
+* The contingent labor market and low-paid adjunct positions
+* Not enough tenure track jobs and the competition for tenure track positions
+* Academia is not right for me
+* Academia is right for me but I didn't get a job
+* Academia is right for me but I hate teaching 
+* Unfair teaching burdens 
+* Student apathy 
+* Student entitlement 
+* Unprepared students
+* Broken K-12 System 
+* Rise of student as customer
+* Rise of online education
+* Increased student tuition
+* Student loan bloat
+* The broken hiring process
+* The broken tenure process
+* The broken academic publishing process
+* Decreased university funding
+* Increased higher education administration
+* Low faculty salaries
+* Declining funding for research
+* The declining liberal arts
+* Anti-intellectualism
+* Classism
+* Geographic isolation
+* Loneliness
+* Grief
+* The "two body" problem
+* Raising a child
+* Raising a child with special needs
+* Having small children
+* Incompatible careers
+* Family illness
+* Divorce
+* Institutional racism 
+* Everyday racism
+* Microaggressions
+* Mental illness 
+* Workaholism
+* Institutional sexism
+* Everyday sexism
+* Sexual harrassment
+* Sexual assault
+* Assault
+* Verbal abuse
+* Gaslighting
+* Institutional inertia and unwillingness to address issues
+* Unequal emotional labor workload 
+* Illegal behavior
+* Institutional politics and infighting
+* Sabotage
+* The trap of post doctoral positions
+* The trap of visiting assistant positions
+* The trap of adjuncting
+* Dropping out of a Ph.D program
+* The desire to do work that matters
+* The desire to do manual work 
+* The desire to have a life outside of academia
+
+
+## The Biggest Problems 
+
+Consider your own departure from academia and start to investigate what you think the biggest issues are within academia. What bugged you most? What things made you the most upset? What part of the institutions were the most difficult for you to make sense of? 
+
+I asked members of the contribution team to talk about what they think are the biggest problems in the academy. These are their responses. 
+
+### Academia is Run Like a Business 
+>"The academy is run like a business This creates a ton of bad outcomes. Three that come to mind with consequences for women. 1. Departments compete for scarce resources. That helps create conditions for all manner of abuse since college leadership is still a very male culture dependent on loyalties. Male-dominated fields (STEM, business) get more prestige.  2. Undergrads and their parents are regarded as consumers. Grad students and junior faculty get subjected to popularity contests, lawsuit threats, etc. with no protection or support from administration. Women and people of color get whacked in student ratings. This also makes it impossible for women and POC to do research, pursuit of new knowledge, which is supposed to be a function of the university.  3. Administrators become the valued class who rise in prestige while contributing little to the scholarly/university community as they march from job to job every 5 years. Again, the administrator class is overwhelmingly white, and predominantly male." - Patti Kameya
+
+> " The devaluation of teaching and learning encouraged by corporate and political forces that see higher ed from the capitalistic perspective of a profiteer or as an opportunity to score political points (and administrators' kowtowing to those interests--or even hiring administrators who explicitly admire those perspectives). The result is institutions where, if spending is any indication, the value of the gym, the cafeteria, student housing, athletics, and an ever-growing system of administrative offices and projects vastly overshadows what they spend on the core mission of quality education. This is evident in hiring practices, tenure processes, funding, salaries and, of course, the practice of hiring adjuncts and graduate students to do the bulk of teaching for peanuts and empty promises." - Mark Bilbrey 
+
+>"The commodification of education. Universities used to be places where people who liked learning and knowledge and finding things out could come together and do that. Nowadays we're a pay-for-parchment service that churns out disinterested students who are only in it for the piece of paper. Learning for the sake of learning is actively spurned by university administrators in favour of work skills - which I absolutely agree are important for useful graduates, but that attitude flies in the face of the whole purpose of the academic institution." - Melinda Stanners 
+
+### Abusive and Exploitative System 
+> "The academy is structured in a way that allows power to nullify accountability for wrong-doing. If a tenured faculty member is sexually harassing students, most of the time the problem is "solved" after those students leave (rather than by removing the faculty member)."  - Anonymous 
+
+>"A startling lack of support for the most marginalized members" - Abby Bajuniemi
+
+>"The academy blatantly uses women, people of color (POC), and members of other marginalized groups to help straight white men achieve promotions. They do this by saddling those women/POCs/other groups with excessive service demands that get in their way of achieving tenure while unburdening the men (making it easy for them to get tenure or ascend to Full Professor status)." - Anonymous 
+
+>"Absolute exploitation of junior scholars" - Anonymous 
+
+> "Whenever I experienced or witnessed conflicts in graduate school, mentors and administrators would invariably side with the person who had more power and privilege. "Don't say anything", I was told by a prominent feminist professor as a 23 year old first year student when I complained about a professor's name calling and lack of professionalism ... Disappointing, but not surprising to find that once you are part of the power structure, you begin to believe in that structure, in the justice of "due process," forgetting that when you are not a part of the power that anonymity is a protection, a way to speak without being made vulnerable to a process that regularly discounts and disregards you." - Prema Prabhakar
+
+> "Almost NO recourse for adjuncts/grad students who suffer abuse at the hands (literally or figuratively) of their superiors (chairs, advisors, etc.). I was told if I wanted the abuse to stop I needed to either put up with it and kowtow to my advisor or go to a new doctoral program 3 yrs into it"  - Anonymous 
+
+> "Misogyny under a veneer of feminism" - Anonymous  
+
+>"What I see EVERYWHERE is either a misalignment between mission and practice OR an inability (or refusal) to clarify a mission and make good-faith efforts to pursue it. They can't say, after all, our mission is to make money for a few people and keep the machine operating, so we'll do whatever it takes to accomplish that with no respect to the needs of students or employees. That would be a pretty honest mission statement at many institutions." - Mark Bilbrey 
+
+### Problematic Labor Practices 
+>" Tenure track jobs are so rare that if you get one there is a prevailing attitude that you should consider yourself "lucky" and therefore you have no right to criticize the conditions of your work when so many others have it worse." - Kate O'Neil
+
+>"Unsustainable, irresponsible, and unethical labor practices and organizational systems that encourage or even require those practices to the detriment of many." - Mark Bilbrey 
+
+> "There is a structural problem in academia. Simply put, the neoliberal university model is broken. In essence, the "academic" has become easily disposable labor with ever decreasing wages." - Anonymous 
+
+>"Despite the fact that many academics are partnered with a fellow academic or someone with similarly specialized skills, few academic institutions have policies that support dual career couples. To the contrary, academic institutions benefit from the often lower paid and contingent labor of so called "captive" or "trailing" spouses." - Kate O'Neil 
+
+>" It is much more difficult to change positions/departments/institutions in academia than outside of academia. Two contrasting examples: friend who is a professor has been sexually harassed by her chair for years, Title IX will do nothing about it, so she's pretty much stuck with it because she can't change departments, and can't start at a new institution without moving her family to another city again (only one Uni in her town) -- even if she could do the latter, it would take ~1 year to accomplish due to the hiring cycles in academia. In contrast, a friend started working an education non-profit, but after about 6 weeks there, she felt like her input was not being heard/valued, so she quit and went back to the place she had worked before--neither job change required moving, and the process was quick." 
+
+>"Forced mobility. I could have stayed in academia if I'd been ok with moving across the continent again (and sans spouse)"  - Carrie Gillon 
+
+>"The academy lies to itself about its contributions to society. It is happy to receive student loan money, but refuses to acknowledge its role in keeping poor students poor after graduation. It pats itself on the back when students get good jobs after graduation, but refuses to pay majority of its professors (adjuncts) wages that can compete with the manager of a local McDonald's." - Anonymous 
+
+### Elitism 
+>"The inability to imagine any other outcome than a professorship as the result of the PhD " - Abby Bajuniemi
+
+>"It was commonly talked about that students who had academic parents had a much greater advantage in the academy than those who were "First Generation" academics. This all seemed to prove true and of course, leaves the (many of us) who are not "academic legacies" scrambling to catch up...." - Prema Prabhakar
+
+>"Institutional elitism: No Ivy League PhD=No job prospects." - Anonymous 
+
+>"Its hypocrisy: It reinforces existing systemic inequalities while spending much time, money and pages of theory purporting the opposite--the effect is indeed like a highly sophisticated version of gas lighting." - Prema Prabhakar 
+
+### Research and Scientific Findings 
+>"The push to publish resulting in rubbish. Not that long ago, researchers only published something when they had something to share that would add value to the world. Nowadays (gosh I sound old) there's pressure to publish X papers a year, plus manage ever-growing teaching loads. This results in academics being unable to do real research that adds value. We're trying to fit meaningful thinking around teaching chores, resulting in uninspired, rushed research. And being required to publish X papers a year means we're writing papers that add no value at all, for the sake of writing papers. And that leads to a bigger problem - so much crap floating around out there, obscuring the real breakthroughs from people who want to use and apply them. The system is making a mess of knowledge generation." - Melinda Stanners  
+
+>"We reward people who make bold statements and/or find unexpected results, and those are exactly the type of findings that are unlikely to be true/replicable." - Anonymous  
+
+### Lack of Outside Engagement 
+>"Academic jobs are structured in ways that discourage community engagement beyond the college or university. Tenure track jobs require years of focus on scholarly publication and at some institutions a combination of publication and excellence in classroom teaching. An increasing number of academics work as adjuncts, often teaching heavy loads, sometimes at multiple institutions, in order to make a living. Many are inspired to go into academia in order to contribute to society- through pro bono work, policy advocacy, writing for a popular audience, and other forms of engagement. However new academics with fresh skills and credentials have little time and limited institutional support for engaging with the world outside." - Kate O'Neil 
+
+>"The echo chamber. We do research. We publish in peer reviewed articles, because that's what we've been taught that we have to do for professional credibility and to further our academic careers. Our peers and colleagues read it. We nit pick over points of theory and minutiae. And NO ONE out there in the real world ever benefits from this, because we don't publish for the world, we publish to meet requirements, and we publish where we've been taught it's good for our career to publish. We don't publish where it's likely to actually do any good. And that makes me feel so tired." - Melinda Stanners  
+
+
+## Resources
+This section will give you a list of Quit lit articles and structural critiques of the higher education system. As always, this is a work in progress, so please contribute if something is missing. 
+
+
+### Quit Lit
+* [Ahmed, Sarah - "Speaking Out"](https://feministkilljoys.com/2016/06/02/speaking-out/) 
+> "A necessary read for anyone who identifies as a feminist and is currently or has every been attached to the academy. While the essay is particularly focused on the problem of sexual assault and harassment at universities, this discussion leads to the broader issues of power differentials and systemic inequalities that the academy reinforces. Ahmed also realized that she, as a successful member of the academy, became part of the problem, part of the power and the abuse that she sought to undermine"  - Prema Prabhakar
+* [Baker, Kelly J. "On Quitting"]( http://www.kellyjbaker.com/on-quitting/) - "She wrote of "quitting" as a dignified re-articulation of the self, rather than a failure."  
+* [Garber, Megan. "The Rise of Quit Lit" - Atlantic](https://www.theatlantic.com/entertainment/archive/2015/09/dont-quit-your-day-job/404671/) 
+* [Schuman, Rebecca "Thesis Hatement" - Slate](http://www.slate.com/articles/life/culturebox/2013/04/there_are_no_academic_jobs_and_getting_a_ph_d_will_make_you_into_a_horrible.html)
+* [Bartram, Erin - "The Sublimated Grief of the Left Behind"](http://erinbartram.com/uncategorized/the-sublimated-grief-of-the-left-behind/) She talks about what the profession loses when people quit.
+* [Lee, Oliver - "I have one of the best jobs in Academia. Here's why I'm walking away" - Vox](%20https://www.vox.com/2015/9/8/9261531/professor-quitting-job) 
+* [Conditionally Accepted, "Dear Department, I Quit."](%20https://conditionallyaccepted.com/2015/06/16/quit/)
+* [Lomax, Tamura "Black Women's Lives Don't Matter in Academia Either or Why I Quit Academic Spaces that Don't Value Back Women's Life"](https://thefeministwire.com/2015/05/black-womens-lives-dont-matter-in-academia-either-or-why-i-quit-academic-spaces-that-dont-value-black-womens-life/)  "'Precarity', the academic-corporation and the historical oppression of, particularly black women's bodies is explained so well and with a strength that I appreciated." - Prema Prabhakar
+* [Harbin, Alison - "Why I Left Academia Part I & II"](%20https://www.allisonharbin.com/post-phd/why-i-left-academia-part-1) - 
+* [Dunn, Sydni - "Why So Many Academics Quit and Tell"](https://chroniclevitae.com/news/216-why-so-many-academics-quit-and-tell) 
+* JC - "From Grad School To Happiness" has four pieces that each explored a specific reason for their departure. [Reason I'm Leaving #1: Geographic Constraints"](http://leavingacademia.blogspot.com/2011/04/reason-im-leaving-1-geographic.html) [Reason I'm Leaving #2: I Hate My Research"](http://leavingacademia.blogspot.com/2011/04/reason-im-leaving-2-i-hate-my-research.html) [Reason I'm Leaving #3: I Deserve Free Time"](http://leavingacademia.blogspot.com/2011/04/reason-im-leaving-3-i-deserve-free-time.html) [Reason I'm Leaving #4: My Mental Health](http://leavingacademia.blogspot.com/2011/05/reason-im-leaving-4-my-mental-health.html)
+* [Wanchisen, Barbara - "There's No Shame in Leaving Academia"]( http://www.sciencemag.org/careers/2018/05/theres-no-shame-leaving-academia) 
+* [Kruger, Phillip "Why It's Not  a 'Failure' to  Leave Academia"] (https://www.nature.com/articles/d41586-018-05838-y)
+* For more, see the list of pieces in a Google Doc:["Quit Lit: The Vitae List"](%20https://docs.google.com/spreadsheets/d/1OODoiZKeAtiGiI3IAONCspryCHWo5Yw9xkQzkRntuMU/edit#gid=0) 
+
+### Critiques of the Academy 
+* [Armstrong, Elizabeth and Laura T. Hamilton - "Paying for the Party: How College Maintains Inequality"](https://www.amazon.com/Paying-Party-College-Maintains-Inequality/dp/0674088026/ref=pd_sim_14_22?_encoding=UTF8&pd_rd_i=0674088026&pd_rd_r=89defd87-cc12-11e8-bdc5-8929d75e6129&pd_rd_w=wPM8K&pd_rd_wg=Yvxk1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=A1AP76RQ94QRC1MX0PH5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=A1AP76RQ94QRC1MX0PH5)
+* [Arum, Richard and Josipa Roska, "Academically Adrift: Limited Learning on College Campuses](https://www.amazon.com/Academically-Adrift-Limited-Learning-Campuses/dp/0226028569/ref=pd_sim_14_20?_encoding=UTF8&pd_rd_i=0226028569&pd_rd_r=89defd87-cc12-11e8-bdc5-8929d75e6129&pd_rd_w=wPM8K&pd_rd_wg=Yvxk1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=A1AP76RQ94QRC1MX0PH5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=A1AP76RQ94QRC1MX0PH5) 
+* [Cottom, Tressie McMillan - "Lower Ed: The Troubling Rise of For Profit Colleges in the New Economy](https://www.amazon.com/gp/product/162097438X/ref=dbs_a_def_rwt_bibl_vppi_i0) 
+* [Dews, CL - "This Fine Place So Far from Home: Voices of Academics from the Working Class"](https://www.amazon.com/This-Fine-Place-Far-Home/dp/1566392918) 
+* [Goldrick-Rab, Sara - "Paying the Price: College Costs, Financial Aid and the Betrayal of the American Dream"](https://www.amazon.com/Paying-Price-Financial-Betrayal-American/dp/022652714X/ref=pd_sim_14_35?_encoding=UTF8&pd_rd_i=022652714X&pd_rd_r=89defd87-cc12-11e8-bdc5-8929d75e6129&pd_rd_w=wPM8K&pd_rd_wg=Yvxk1&pf_rd_i=desktop-dp-sims&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=A1AP76RQ94QRC1MX0PH5&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&psc=1&refRID=A1AP76RQ94QRC1MX0PH5) 
+* [Romm, Robin - "Double Bind: Women on Ambition"](https://www.amazon.com/Double-Bind-Ambition-Robin-Romm/dp/163149418X?keywords=Double+Bind%3A+Women+on+Ambition&qid=1539040615&s=Books&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
+
+### Books on Power and Privilege
+* [Deresiewicz, William - "Excellent Sheep"](http://www.billderesiewicz.com/books/excellent-sheep)  A critique of the education system that asks what higher education should be training students for. 
+* [Khan, Shamus - "Privilege: The Making of an Adolescent Elite at St. Paul's School"](https://www.amazon.com/Privilege-Adolescent-Princeton-Cultural-Sociology/dp/0691156239/) A book that describes how students at an elite private school encode their privilege onto their bodies during the course of their elite education.  
+* [Diamond, Julie - "Power: A User's Guide"](http://juliediamond.net/) Diamond starts with the idea that each person has power and the task is learning how to use it and work with it. She works with a number of guidelines and describes how to cultivate your own use of power in a way that enables you to see your blind spots and to do your work. 
+
+## Homework: Broadening The Story
+
+In this exercise, we're working with what has happened to us and asking some questions to examine our experiences more broadly. We want to seek a wider understanding of what happened with regard to the institutions and fields that we are a part of and start to ask these institutions and structures to be more accountable for what occurred. 
+
+### 1) Describe what happened to you.  
+Describe something that happened that still hurts. Write out for yourself what it looked like from your perspective. Really let yourself take some time to write out the grievance and all the players in your story. 
+
+If your story is too raw for you and you'd still like some practice at broadening a story. It is sometimes easier to look at other people's stories instead of your own. Below are three examples that you can use for discussion. 
+
+### 2) Who else might have experienced something similar?
+Do you know of anyone else who has experienced something similar to what you have? If the answer is yes, then describe who it is. How are they similar to you? In what ways did they experience what you experienced?
+
+If you don't know anyone who has experienced something similar, start by considering if it's theoretically possible for others to have had something similar happen to them. If so, try to imagine who might be able to relate (yes, you are using your imagination here). 
+
+Consider generalizing to a group of people. Could you imagine other women experiencing something similar at a different university? Would other junior faculty members understand this? Are there other people who are invisibly disabled who would understand? Are there others in your field who could understand your challenge?  
+
+This is also a good time to look for first person accounts of such issues and in particular to see if there is any Quit Lit that is similar. Start with the resources section in this lesson and go through to see which of them is most closely related to what you experienced. 
+
+### 3) Who has power and who does not? 
+In looking at your story, now it's time to consider the power structure. Is there a power imbalance here? Where did you have power? Where did someone have power over you? What were the things that were out of your control? Who has recourse? Who does not have recourse?  
+
+Did the power structure have any influence on what happened? Would there have been a different outcome if you had had more power or a different kind of power?  Consider that there are [different types of power](https://en.wikipedia.org/wiki/French_and_Raven%27s_bases_of_power). [Original article with 5 power types here](http://www.communicationcache.com/uploads/1/0/8/8/10887248/the_bases_of_social_power_-_chapter_20_-_1959.pdf)  What kinds of power did you have? What kinds of power were used over you? 
+
+### 4) What role did the institution(s) play in your story? 
+For the next question it's helpful to think through different types of institutions that might be involved and make sure we're thinking past just the university where you went to school or were employed. Consider also: your disciplinary area of study and sub disciplinary groups, the state, the academic publishing industry, the journal system, the student loan and banking industry, the Greek System, your alma mater, the Ivies, athletics, alumni networks, the board of directors, the academic community as a whole, heteronormativity, privilege, patriarchal structures, the boys network, 
+
+What did the institution actually do (or not do)? Did anyone suggest that the institution would do something? What did they say? What actually happened? Was the power difference upheld by an institution? How? Are there hypocrisies in the actual actions taken (or not taken) by the institution? 
+
+### 5) What cultural beliefs supports those with power in your story?
+What are the beliefs in these institutions that you named above, or broader beliefs that may have led to supporting what happened to you? Cultural beliefs can be thought of as "the way we do things here" Some examples of cultural beliefs include statements like: 
+* People who go to Ivy League schools/ have tenure/have Ph.D's are smarter.  
+* Employees will stay in their position - no matter how precarious - if the school is prestigious/they have tenure/they get enough money.
+* Graduate students who are parents/women/minorities/first generation don't make it through the program.
+* Women are better at note taking/committee or service work/advising/mentorship/teaching than men. 
+* Without a successful grant/published book/five articles, you won't get tenure. 
+* If you don't succeed on the job market after two years/a Visiting Position/not getting an offer, you won't get a job. 
+* There's no reason to hire an applicant if they: are a trailing spouse/haven't gotten a tenure track job after two years/haven't published a solo article. 
+
+### 6) How does your reflection on these questions lead you to retell the story you told at the beginning?What does a broader perspective add to your understanding of what happened to you?
+
+### Extra Credit: Fictional Stories 
+
+It can sometimes help to do the Broadening the Story exercise on someone else's story. Particularly if you're having trouble figuring out how to do this with your own story, start by working on some fictional stories to get your mind around the task. (CW: assault) 
+
+1) Jane is in her first year of teaching as a visiting assistant professor at a prestigious school she'd love to stay at. She was on the job market and gets an offer from a less prestigious college. She isn't sure if she wants to take it. Ideally, she'd stay at the university she's at and get a tenure track position, something the dean has hinted at. He said he could fund her for another year and is looking for the resources for a line for her. She hasn't received a contract in the mail from him for the next year, though he claims that's not a big deal. She tells him she needs a contract before the decision is requested by the university that wants to hire her. He doesn't respond. When she takes the other job, all of her colleagues including the dean are astonished that she would leave for a "less desirable" school. 
+
+2) Marcia is a post doc in a lab and she has been increasingly concerned about her advisor's behavior with the international graduate students that depend on their status in the department for their visa. The advisor has made comments in lab meetings about "deportation" and joked that he can just take back their funding if they don't do their work as quickly as he wants it done. When one grad student wanted to go home for a family funeral, the lab director made comments about her going on "vacation" and that people don't just get time off any time they want it. Marcia has gone to the dean to talk about her advisor's behavior. He listens and says that he's friends with the professor and will talk to him. A week after talking to the dean, her advisor says to the lab that someone is "out to get him" and he thinks it's one of the international students. 
+
+3) Jake is a professor in his first year and he often travels to the city nearby to get some work done, see some friends and go on dates. He hasn't come out to any of his colleagues and doesn't wish to. On a night when he's out with a date with a man, he sees a female colleague who seems shocked at seeing him kiss a man. She exclaims that she didn't know he was gay. He considers himself bisexual but does not wish to have that conversation with his colleague, nor for his sexuality to be a part of his work environment. When he returns to campus, a colleague says something to him which makes him realize she has outed him without his consent. 
+
+Use these fictional examples to go through the Broadening the Story questions. How can you recontextualize each of these stories?
+
